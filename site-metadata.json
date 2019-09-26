@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "title": "Gonzalo Moreno",
-        "tagline": "Header Tagline",
+        "tagline": "A software developer, based in Chile",
         "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--sG9W8s-U--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/100990/38a78b78-1d19-416e-8bf4-f3b765f2f58d.jpeg",
         "bg": "dark",
         "has_nav": true,
