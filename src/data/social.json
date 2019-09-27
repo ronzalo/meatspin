@@ -1,7 +1,12 @@
 {
     "links": [
         null,
-        null,
+        {
+            "type": "linkedin",
+            "title": "LinkedIn",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/gonzalo-moreno-caballero-b9272039"
+        },
         {
             "type": "github",
             "title": "GitHub",
