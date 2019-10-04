@@ -37,6 +37,13 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
+        },
+        {
+            resolve: "gatsby-plugin-google-tagmanager",
+            options: {
+                id: "GTM-WCFLJ9N",
+                includeInDevelopment: false
+            }
         }
     ]
 };
